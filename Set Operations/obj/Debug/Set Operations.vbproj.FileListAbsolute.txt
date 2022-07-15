@@ -1,0 +1,4 @@
+C:\Users\AILA\Documents\Visual Studio 2015\Projects\Set Operations - Final\Set Operations\bin\Debug\Set Operations.exe.config
+C:\Users\AILA\Documents\Visual Studio 2015\Projects\Set Operations - Final\Set Operations\obj\Debug\Set Operations.exe
+C:\Users\AILA\Documents\Visual Studio 2015\Projects\Set Operations - Final\Set Operations\obj\Debug\Set Operations.xml
+C:\Users\AILA\Documents\Visual Studio 2015\Projects\Set Operations - Final\Set Operations\obj\Debug\Set Operations.pdb
